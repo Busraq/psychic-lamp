@@ -1,0 +1,2 @@
+# psychic-lamp
+"psişiklamba.psişiklamba"
